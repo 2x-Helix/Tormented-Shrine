@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Matthew/3D_modeling/FIT3097/Assignment 1 - Custom Shaders/A1_MatthewSiegenthaler/TormentedShrine/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/O4/A0R22M4YHNXNEF9PFTUTB9.uasset",
+				"D:/Matthew/3D_modeling/FIT3097/Assignment 1 - Custom Shaders/A1_MatthewSiegenthaler/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"D:/Matthew/3D_modeling/FIT3097/Assignment 1 - Custom Shaders/A1_MatthewSiegenthaler/Content/FirstPerson/Maps/FirstPersonMap.umap"
+			]
+		}
+	]
+}
