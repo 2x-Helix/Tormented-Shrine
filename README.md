@@ -6,3 +6,5 @@
 Created a haunted beachside shrine scene to showcase custom Material Graph shaders used to portray a theme of decay ([see project reflection](https://github.com/2x-Helix/Tormented-Shrine/blob/main/FIT3097-A1_Custom-Shaders_MatthewSiegenthaler.pdf)).
 
 Used Unreal Engine 5 Material Graph and assets from the Quixel Megascan library.
+
+[Download the Windows buid](https://github.com/2x-Helix/Tormented-Shrine/releases/tag/Tormented-Shrine_v1.0.0)
